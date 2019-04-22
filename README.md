@@ -1,1 +1,1 @@
-# pawn-mongo-server
+# Pawn application using node server with mongoDb
